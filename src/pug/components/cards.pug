@@ -1,0 +1,21 @@
+mixin gameCards(img, text)
+	div(class="grid__card")
+		img(src=img, alt=text, class="grid__img")
+		div(class="grid__content")
+			h3(class="grid__content--h3")= text 
+
+section(class="games")
+	div(class="games__container games__display")
+		div(class=' grid ed-grid s-grid-1 m-grid-2 lg-grid-4 row-gap l-big-section') 
+			-for(var i = 0; i < games.length ; i++)
+				-var game = games[i]
+				+gameCards(game.img, game.text)
+
+	div(class="games__slider games__block")
+		h2(class="games__container--h2") Enjoy our products
+		div(class='tns-single' aria-hidden="true" id='tnsSingleGames')
+			-for(var i = 0; i < games.length; i++)
+				div(class="grid__card")
+					img(src=games[i].img alt=games[i].text class="grid__img")
+					div(class="grid__content")
+						h3(class="grid__content--h3")= games[i].text

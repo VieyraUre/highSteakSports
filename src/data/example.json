@@ -1,0 +1,46 @@
+{
+	"slides": [
+		{
+			"field1": "GET ACTION ON ALL YOUR FAVORITE SPORTING EVENTS",
+			"image": "assets/img/slider_sposts.jpg",
+			"imageMobile": "assets/img/slider_sposts-mob.jpg",
+			"alt": "GET ACTION ON ALL YOUR FAVORITE SPORTING EVENTS"
+		},
+		{
+			"field1": "live dealer",
+			"image": "assets/img/slider_l-dealer.jpg",
+			"imageMobile": "assets/img/slider_l-dealer-mob.jpg",
+			"alt": "live dealer"
+		},
+		{
+			"field1": "live wagering",
+			"image": "assets/img/Main_-l-wagering.jpg",
+			"imageMobile": "assets/img/Main_-l-wagering-mob.jpg",
+			"alt": "live wagering"
+		},
+		{
+			"field1": "ben on superbowl",
+			"image": "assets/img/Main_-umcoming-event.jpg",
+			"imageMobile": "assets/img/Main_-umcoming-event-mob.jpg",
+			"alt": "ben on superbowl"
+		}
+	],
+	"games": [
+		{
+			"img": "assets/img/promos/live-dealer.jpg",
+			"text": "live dealer"
+		},
+		{
+			"img": "assets/img/promos/live-wagering.jpg",
+			"text": "live wagerin"
+		},
+		{
+			"img": "assets/img/promos/sports.jpg",
+			"text": "sports"
+		},
+		{
+			"img": "assets/img/promos/mobile-betting.jpg",
+			"text": "mobile betting available"
+		}
+	]
+}
