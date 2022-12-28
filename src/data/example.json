@@ -42,5 +42,76 @@
 			"img": "assets/img/promos/mobile-betting.jpg",
 			"text": "mobile betting available"
 		}
+	],
+	"houseRules":[
+		{
+			"rule": "All rules, regulations and payoffs contained herein are subject to change and revision by the «Sportsbook» without prior written notice."
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		},
+		{
+			"rule": ""
+		}
 	]
 }
